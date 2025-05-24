@@ -77,8 +77,8 @@
   </a>
 </p>
 <p>
-  Pankaj Gond - 
-  <a href="mailto:pankajgond741@gmail.com">
+  Rudransh Srivastav - 
+  <a href="mailto:rudranshshrivastav487@gmail.com">
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Icon" style="width:20px;height:20px;"/>
   </a>
 </p>
