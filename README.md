@@ -1,4 +1,4 @@
-<h1 align="center">TechOrbit</h1>
+<h1 align="center">StudyNotion</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
