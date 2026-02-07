@@ -71,12 +71,6 @@
 
 <h2 align="center">Contact</h2>
 <p>
-  MD Sharique - 
-  <a href="mailto:shariquevivo@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Icon" style="width:20px;height:20px;"/>
-  </a>
-</p>
-<p>
   Rudransh Srivastav - 
   <a href="mailto:rudranshshrivastav487@gmail.com">
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Icon" style="width:20px;height:20px;"/>
