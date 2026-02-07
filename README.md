@@ -72,15 +72,19 @@
 <h2 align="center">Contact</h2>
 
 <p>
-  Rudransh Srivastav - 
+  Rudransh Srivastav –
   <a href="mailto:rudranshshrivastav487@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email Icon" style="width:20px;height:20px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png"
+         style="width:18px;height:18px;vertical-align:middle;" />
+    Email
   </a>
 </p>
 
 <p>
-  Project Link: 
+  Project Link:
   <a href="https://studynotion-frontend-tau.vercel.app/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/link.png" alt="Project Link Icon" style="width:20px;height:20px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/link.png"
+         style="width:18px;height:18px;vertical-align:middle;" />
+    Live Demo
   </a>
 </p>
