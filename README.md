@@ -70,6 +70,7 @@
 <p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
 
 <h2 align="center">Contact</h2>
+
 <p>
   Rudransh Srivastav - 
   <a href="mailto:rudranshshrivastav487@gmail.com">
